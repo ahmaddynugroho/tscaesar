@@ -6,6 +6,10 @@ import { chiper, dechiper } from '../src/main'
         key: '1221122',
     },
     {
+        msg: 'osaka, shizuku, kasumin, asaka, karin, mia chi, kawaii.',
+        key: '11221121211121',
+    },
+    {
         msg: 'tokimeki ga doko?! vivid world',
         key: '111121',
     },
