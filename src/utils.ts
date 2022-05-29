@@ -1,3 +1,4 @@
+// @ts-ignore
 const shuffleText = (text: string): string => {
     return text
         .split('')
